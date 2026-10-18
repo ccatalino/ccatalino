@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Clarice 👋
 
-<!--
-**ccatalino/ccatalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Laravel · PHP · MySQL · Vue.js
+Rebuilding and sharpening my full-stack skills through hands-on projects.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Full-stack web app with Laravel, Vue and MySQL (in progress)
+- REST API and Vue single-page app (in progress)
+- Practising testing with Pest and clean Git habits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+Laravel · PHP · MySQL · Vue 3 · Tailwind CSS · TypeScript · Git
+
+### Currently learning
+Docker · Pinia · Vue Router · automated testing
+
+### Connect
+LinkedIn: www.linkedin.com/in/clarice-catalino-v04
+
